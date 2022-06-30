@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numexpr = "*"
+numpy = "*"
+ipykernel = "*"
+matplotlib = "*"
+
+[dev-packages]
+pandas = "*"
+numpy = "*"
+
+[requires]
+python_version = "3.9"
