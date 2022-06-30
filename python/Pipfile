@@ -6,13 +6,13 @@ name = "pypi"
 [packages]
 pandas = "*"
 numexpr = "*"
-numpy = "*"
 ipykernel = "*"
 matplotlib = "*"
+sklearn = "*"
+numpy = "*"
 
 [dev-packages]
 pandas = "*"
-numpy = "*"
 
 [requires]
 python_version = "3.9"
